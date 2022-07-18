@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Chakraborty</h1>
 <h3 align="center">A passionate Software Engineer from India and a techie by heart</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isoumyajit&label=views&color=1f9bf9&style=plastic" alt="isoumyajit" /> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Tata Consultancy Services Ltd.](https://www.tcs.com/)
@@ -18,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soumyajit-chakraborty-914352121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyajit-chakraborty-914352121" height="30" width="40" /></a>
-<a href="https://fb.com/soumyajit.chakraborty.16100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soumyajit.chakraborty.16100/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/soumyajit.chakraborty.16100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soumyajit.chakraborty.16100/" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_bajechele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_bajechele" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/soumya_2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soumya_2021" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soumyajit_2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyajit_2021" height="30" width="40" /></a>
@@ -29,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isoumyajit&show_icons=true&locale=en&layout=compact" alt="isoumyajit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isoumyajit&show_icons=true&locale=en" alt="isoumyajit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isoumyajit&show_icons=true&theme=gruvbox&title_color=5b2929&bg_color=e64747&cache_seconds=1800&locale=en" alt="isoumyajit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isoumyajit&" alt="isoumyajit" /></p>
