@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isoumyajit&label=views&color=1f9bf9&style=plastic" alt="isoumyajit" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isoumyajit" alt="isoumyajit" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Tata Consultancy Services Ltd.](https://www.tcs.com/)
@@ -31,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isoumyajit&show_icons=true&locale=en&layout=compact" alt="isoumyajit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isoumyajit&show_icons=true&theme=gruvbox&title_color=5b2929&bg_color=e64747&cache_seconds=1800&locale=en" alt="isoumyajit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isoumyajit&show_icons=true&theme=tokyonight&title_color=fd3030&text_color=61f5d7&bg_color=003f7a&cache_seconds=1800&locale=en" alt="isoumyajit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isoumyajit&" alt="isoumyajit" /></p>
