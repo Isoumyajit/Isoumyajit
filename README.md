@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Soumyajit Chakraborty | Avatar" width="200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Favinash-in.github.io%2F&psig=AOvVaw3rZQlxr9eYGTWEUJRtTsAX&ust=1664079864466000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCooeLKrPoCFQAAAAAdAAAAABAD" />
+  <img alt="Soumyajit Chakraborty | Avatar" width="200px" src="https://w7.pngwing.com/pngs/685/882/png-transparent-web-development-programmer-computer-programming-mobile-app-development-design-web-design-text-reading.png" />
 </div>
 
 <h1 align="center">Soumyajit Chakraborty</h1>
