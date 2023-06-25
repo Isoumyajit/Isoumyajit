@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Soumyajit Chakraborty | Avatar" width="500px" src="./LINKEDIN%20banner.png" />
+  <img alt="Soumyajit Chakraborty | Avatar" width="1000px" src="./LINKEDIN%20banner.png" />
 </div>
 
 <h1 align="center">Soumyajit Chakraborty</h1>
