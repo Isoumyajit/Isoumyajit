@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Soumyajit Chakraborty | Avatar" width="200px" src="https://w7.pngwing.com/pngs/685/882/png-transparent-web-development-programmer-computer-programming-mobile-app-development-design-web-design-text-reading.png" />
+  <img alt="Soumyajit Chakraborty | Avatar" width="500px" src="./LINKEDIN%20banner.png" />
 </div>
 
 <h1 align="center">Soumyajit Chakraborty</h1>
@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/soumyajit.chakraborty.16100/">
     <img align="center" width="30px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
   </a>
-  <a href="mailto:soumyo.chak1999@gmail.com">
+  <a href="mailto:chakraborty.soumyajit99@outlook.com">
     <img align="center" width="30px" src="https://camo.githubusercontent.com/21863a9a063d33b20608be917f5601f309abec90ae5cf5dedea38bb6b55d11ab/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" />
   </a>
 </div>
@@ -47,14 +47,13 @@
 <br/>
 <br/>
 <br/>
-<a align="center" href="#">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayak007&&langs_count=10&layout=compact" />
-</a>
 
 ## Talking about Personal Stuffs:
 
-- 🌱 I’m currently learning MERN stack, Data Analytics
-- 👨‍💻 Competitive Programming Enthusiast
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: soumyo.chak1999@gmail.com
-- 📝[Resume]()
+currently I’m learning Full Stack Web Development.
+- 👨‍💻 All of my projects are available at isoumyajit.vercel.app
+- 💬 Ask me about React.js, Redux, JS(ES6), Tailwind Css, Bootstrap, Css, Html.
+- ✉ You can reach me at chakraborty.soumyajit99@outlook.com
+- 📝 I am often active on https://www.linkedin.com/in/soumyajit-chakraborty-914352121/
+- 🎉 Fun fact Hardwork is also a kind of Smartwork😎
+- 📝[Resume](./SoumyajitChakrabortyResume.pdf)
