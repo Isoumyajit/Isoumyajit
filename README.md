@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isoumyajit&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="isoumyajit" /> </p>
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/Isoumyajit/EmployeeManagementSystem)
+- 🔭 I’m currently learning LLD
 
 - 🌱 I’m currently learning **Spring, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://isoumyajit.vercel.app/](https://isoumyajit.vercel.app/)
 
-- 💬 Ask me about **React , Vue , javascript, Nodejs**
+- 💬 Ask me about **React, Vue, Javascript, Nodejs**
 
 - 📫 How to reach me **chakraborty.soumyajit99@outlook.com**
 
@@ -38,14 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isoumyajit&show_icons=true&locale=en" alt="isoumyajit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isoumyajit&" alt="isoumyajit" /></p>
-
-
-## Talking about Personal Stuffs:
-
-Currently I’m learning Full Stack Web Development.
-- 👨‍💻 All of my projects are available at isoumyajit.vercel.app
-- 💬 Ask me about React.js, Redux, JS(ES6), Tailwind Css, Bootstrap, Css, Html.
-- ✉ You can reach me at chakraborty.soumyajit99@outlook.com
-- 📝 I am often active on https://www.linkedin.com/in/soumyajit-chakraborty-914352121/
-- 🎉 Fun fact Hardwork is also a kind of Smartwork😎
-- 
