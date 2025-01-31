@@ -1,9 +1,5 @@
 <div align="center">
-  <img alt="Soumyajit Chakraborty | Avatar" width="1500px" src="./LINKEDIN_banner.png" />
-</div>
-
-<div align="center">
-  <img height="150" src="./LINKEDIN_banner.png"   />
+  <img src="./LINKEDIN_banner.png"   />
 </div>
 
 ###
