@@ -4,17 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/isoumyajit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="chakraborty.soumyajit99@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Soumyajit Chakraborty</h1>
 
 ###
