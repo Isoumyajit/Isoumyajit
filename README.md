@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from India <br><br>- 🔭 I’m working as Full-stack Developer<br>- 📚 I'm currently learning Design Patterns and MERN<br>- ⚡ In my free time I click pictures</p>
+<p align="left"><br>- 🔭 I’m working as Full-stack Developer<br>- 📚 I'm currently learning Design Patterns and MERN<br>- ⚡ In my free time I click pictures</p>
 
 ###
 
